@@ -1,0 +1,4 @@
+include ':app'
+//include ':pulltorefresh'
+//,':floatingmenu'':DaoExample' , ':permissiontest'   , ':animcircle'   , ':stickynavlayout'
+//, ':animcircle'
